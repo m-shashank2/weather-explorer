@@ -36,7 +36,7 @@
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/weather-explorer.git
+https://github.com/m-shashank2/weather-explorer.git
 cd weather-explorer
 ```
 
