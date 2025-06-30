@@ -40,6 +40,6 @@ git clone https://github.com/YOUR-USERNAME/weather-explorer.git
 cd weather-explorer
 ```
 
-###2️⃣ Open the project
+### 2️⃣ Open the project
 - You can open index.html directly in your browser
 - Or open the folder in VS Code and use Live Server.
